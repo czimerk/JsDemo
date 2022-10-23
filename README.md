@@ -2,6 +2,8 @@
 
 git clone git@github.com:czimerk/JsDemo.git
 
+open in vs code
+
 open terminal
 
 node start
