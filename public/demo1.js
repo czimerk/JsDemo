@@ -42,3 +42,4 @@ if (
 if (dataFromServer && dataFromServer.length) {
   console.log(dataFromServer[1]);
 }
+console.log("test");
